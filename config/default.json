@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "pratavetra",
+    "mongoUri": "mongodb+srv://dumanskyi:036kawabanga058@cluster0-0jj59.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}

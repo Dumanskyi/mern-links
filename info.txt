@@ -1,0 +1,7 @@
+db:
+ 
+name:  mern-project
+IP: 94.74.96.118
+
+user: dumanskyi
+password: 036kawabanga058
